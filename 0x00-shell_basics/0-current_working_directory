@@ -1,2 +1,0 @@
-#!/bin/bash
-path=$(realpath â€œ${BASH_SOURCE:-$0}â€")
