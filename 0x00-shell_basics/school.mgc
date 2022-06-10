@@ -1,2 +1,2 @@
 #!/bin/bash
-application/octet-stream
+/tmp/magic$ file --mime-type -m school.mgc *
